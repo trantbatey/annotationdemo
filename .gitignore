@@ -32,3 +32,6 @@ build/
 
 ### Resource File ###
 src/main/resources/application.properties
+.mvn/
+lib/
+
